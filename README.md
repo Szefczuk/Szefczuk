@@ -3,17 +3,21 @@
     <img src="assets/header.png" alt="Tomasz Szewczyk — Connected TV Lead · Senior Frontend Engineer" width="100%" />
   </a>
 
-  <br />
+<br /><br />
 
-  <a href="https://tomekszewczyk.dev"><img src="https://img.shields.io/badge/Portfolio-tomekszewczyk.dev-1b3a6b?style=flat-square" alt="Portfolio" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/tomasz-szewczyk-346032170"><img src="https://img.shields.io/badge/LinkedIn-Tomasz_Szewczyk-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://github.com/Szefczuk"><img src="https://img.shields.io/badge/GitHub-Szefczuk-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  &nbsp;
-  <a href="mailto:tomekszewczyk0@gmail.com"><img src="https://img.shields.io/badge/Email-tomekszewczyk0@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <br>
-  🇵🇱 Polish · 🇬🇧 English
+<a href="https://tomekszewczyk.dev"><img src="https://img.shields.io/badge/Portfolio-tomekszewczyk.dev-1b3a6b?style=flat-square" alt="Portfolio" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/tomasz-szewczyk-346032170"><img src="https://img.shields.io/badge/LinkedIn-Tomasz_Szewczyk-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://github.com/Szefczuk"><img src="https://img.shields.io/badge/GitHub-Szefczuk-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+&nbsp;
+<a href="mailto:tomekszewczyk0@gmail.com"><img src="https://img.shields.io/badge/Email-tomekszewczyk0@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<br>
+
+<br />
+
+🇵🇱 Polish · 🇬🇧 English
+
 </div>
 
 ---
