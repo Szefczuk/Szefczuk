@@ -1,27 +1,21 @@
 <div align="center">
+  <a href="https://tomekszewczyk.dev">
+    <img src="assets/header.png" alt="Tomasz Szewczyk — Connected TV Lead · Senior Frontend Engineer" width="100%" />
+  </a>
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  ● REC                                                      │
-│                                                             │
-│     TOMASZ SZEWCZYK                                         │
-│     Connected TV Lead  ·  Senior Frontend Engineer          │
-│                                                             │
-│     Wrocław, Poland  ·  Remote  ·  10+ years                │
-│                                                             │
-│     [ ▲ ]  [ ▼ ]  [ ◀ ]  [ ▶ ]   OK                         │
-└─────────────────────────────────────────────────────────────┘
-```
+  <br />
 
-**Portfolio → [tomekszewczyk.dev](https://tomekszewczyk.dev)**
+  <a href="https://tomekszewczyk.dev"><img src="https://img.shields.io/badge/Portfolio-tomekszewczyk.dev-1b3a6b?style=flat-square" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tomasz-szewczyk-346032170"><img src="https://img.shields.io/badge/LinkedIn-Tomasz_Szewczyk-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://github.com/Szefczuk"><img src="https://img.shields.io/badge/GitHub-Szefczuk-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;
+  <a href="mailto:tomekszewczyk0@gmail.com"><img src="https://img.shields.io/badge/Email-tomekszewczyk0@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
-[![Portfolio](https://img.shields.io/badge/tomekszewczyk.dev-1b3a6b?style=for-the-badge)](https://tomekszewczyk.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasz-szewczyk-346032170)
-[![GitHub](https://img.shields.io/badge/GitHub-Szefczuk-181717?style=for-the-badge&logo=github)](https://github.com/Szefczuk)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomekszewczyk0@gmail.com)
+  <br /><br />
 
-🇵🇱 Polish · 🇬🇧 English
-
+  <sub>🇵🇱 Polish &nbsp;·&nbsp; 🇬🇧 English</sub>
 </div>
 
 ---
