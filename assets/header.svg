@@ -4,27 +4,27 @@
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0a1220"/>
-      <stop offset="55%" stop-color="#10203a"/>
-      <stop offset="100%" stop-color="#0d1830"/>
+      <stop offset="0%" stop-color="#1f1f1f"/>
+      <stop offset="55%" stop-color="#262626"/>
+      <stop offset="100%" stop-color="#1a1a1a"/>
     </linearGradient>
     <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#FFA500" stop-opacity="0"/>
-      <stop offset="45%" stop-color="#FFC44D" stop-opacity=".4"/>
-      <stop offset="100%" stop-color="#FFA500" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#CBE402" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#CBE402" stop-opacity=".35"/>
+      <stop offset="100%" stop-color="#CBE402" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#061018" stop-opacity="0"/>
-      <stop offset="35%" stop-color="#061018" stop-opacity=".45"/>
-      <stop offset="100%" stop-color="#061018" stop-opacity=".82"/>
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#000000" stop-opacity=".35"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity=".72"/>
     </linearGradient>
     <radialGradient id="orbA" cx="18%" cy="8%" r="55%">
-      <stop offset="0%" stop-color="#FFA500" stop-opacity=".34"/>
-      <stop offset="100%" stop-color="#FFA500" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#CBE402" stop-opacity=".28"/>
+      <stop offset="100%" stop-color="#CBE402" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="orbB" cx="90%" cy="90%" r="48%">
-      <stop offset="0%" stop-color="#FFA500" stop-opacity=".16"/>
-      <stop offset="100%" stop-color="#FFA500" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#CBE402" stop-opacity=".12"/>
+      <stop offset="100%" stop-color="#CBE402" stop-opacity="0"/>
     </radialGradient>
     <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="28"/>
@@ -41,89 +41,89 @@
     <rect x="0" y="0" width="1120" height="1" fill="url(#shine)"/>
     <rect x="0" y="200" width="1120" height="140" fill="url(#chrome)"/>
   </g>
-  <rect x="1" y="1" width="1118" height="338" rx="22" fill="none" stroke="#FFA500" stroke-opacity=".32"/>
+  <rect x="1" y="1" width="1118" height="338" rx="22" fill="none" stroke="#CBE402" stroke-opacity=".32"/>
 
   <g font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">
     <g transform="translate(48, 34)">
       <circle cx="6" cy="7" r="5" fill="#ff4d5a">
         <animate attributeName="opacity" values="1;0.35;1" dur="1.8s" repeatCount="indefinite"/>
       </circle>
-      <text x="22" y="12" fill="#f3f6fb" font-size="13" font-weight="700" letter-spacing="2.4">LIVE</text>
-      <text x="68" y="12" fill="#93a4bf" font-size="13" letter-spacing="1.6">CONNECTED TV  |  OTT</text>
+      <text x="22" y="12" fill="#f5f5f5" font-size="13" font-weight="700" letter-spacing="2.4">LIVE</text>
+      <text x="68" y="12" fill="#9a9a9a" font-size="13" letter-spacing="1.6">CONNECTED TV  |  OTT</text>
     </g>
 
     <g transform="translate(800, 26)">
-      <rect x="0" y="0" width="42" height="22" rx="4" fill="#FFA500" fill-opacity=".16" stroke="#FFA500"/>
-      <text x="21" y="16" text-anchor="middle" fill="#FFA500" font-size="11" font-weight="700" letter-spacing="1.2">HD</text>
-      <rect x="50" y="0" width="42" height="22" rx="4" fill="#ffffff" fill-opacity=".04" stroke="#9eb0c9" stroke-opacity=".55"/>
-      <text x="71" y="16" text-anchor="middle" fill="#d5e0f0" font-size="11" font-weight="700" letter-spacing="1.2">CC</text>
-      <rect x="100" y="0" width="72" height="22" rx="4" fill="#ffffff" fill-opacity=".04" stroke="#9eb0c9" stroke-opacity=".55"/>
-      <text x="136" y="16" text-anchor="middle" fill="#d5e0f0" font-size="11" font-weight="700" letter-spacing=".8">1080p</text>
+      <rect x="0" y="0" width="42" height="22" rx="4" fill="#CBE402" fill-opacity=".16" stroke="#CBE402"/>
+      <text x="21" y="16" text-anchor="middle" fill="#CBE402" font-size="11" font-weight="700" letter-spacing="1.2">HD</text>
+      <rect x="50" y="0" width="42" height="22" rx="4" fill="#ffffff" fill-opacity=".04" stroke="#8a8a8a" stroke-opacity=".7"/>
+      <text x="71" y="16" text-anchor="middle" fill="#d0d0d0" font-size="11" font-weight="700" letter-spacing="1.2">CC</text>
+      <rect x="100" y="0" width="72" height="22" rx="4" fill="#ffffff" fill-opacity=".04" stroke="#8a8a8a" stroke-opacity=".7"/>
+      <text x="136" y="16" text-anchor="middle" fill="#d0d0d0" font-size="11" font-weight="700" letter-spacing=".8">1080p</text>
     </g>
 
-    <text x="48" y="90" fill="#FFA500" font-size="12" font-weight="700" letter-spacing="3">NOW PLAYING</text>
-    <text x="48" y="136" fill="#f7f9fc" font-size="42" font-weight="700" letter-spacing="-0.6">Tomasz Szewczyk</text>
-    <text x="48" y="174" fill="#c5d2e8" font-size="19">Senior Frontend Engineer  |  Connected TV Lead</text>
-    <text x="48" y="204" fill="#8b9bb3" font-size="14">Wroclaw, Poland  |  Remote  |  10+ years shipping to the living room</text>
+    <text x="48" y="90" fill="#CBE402" font-size="12" font-weight="700" letter-spacing="3">NOW PLAYING</text>
+    <text x="48" y="136" fill="#f5f5f5" font-size="42" font-weight="700" letter-spacing="-0.6">Tomasz Szewczyk</text>
+    <text x="48" y="174" fill="#c8c8c8" font-size="19">Senior Frontend Engineer  |  Connected TV Lead</text>
+    <text x="48" y="204" fill="#8a8a8a" font-size="14">Wroclaw, Poland  |  Remote  |  10+ years shipping to the living room</text>
 
     <!-- player control bar -->
     <g transform="translate(48, 228)">
-      <!-- skip back -->
-      <g transform="translate(0, 13)" fill="#d5e0f0">
-        <rect x="2" y="5" width="2.6" height="14" rx="1"/>
-        <polygon points="16,6 5,12 16,18"/>
-        <polygon points="27,6 16,12 27,18"/>
+      <!-- skip back: centered on y=24 -->
+      <g transform="translate(22, 24)" fill="#d0d0d0">
+        <rect x="-13" y="-7" width="2.6" height="14" rx="1"/>
+        <polygon points="-1.5,-7 -12,0 -1.5,7"/>
+        <polygon points="9,-7 -1.5,0 9,7"/>
       </g>
 
-      <!-- TV focus ring + play -->
-      <circle cx="78" cy="24" r="26" fill="none" stroke="#FFA500" stroke-width="2.2"/>
-      <circle cx="78" cy="24" r="20" fill="#FFA500"/>
-      <polygon points="73,16 73,32 88,24" fill="#0a1220"/>
+      <!-- TV focus ring + optically centered play -->
+      <circle cx="78" cy="24" r="26" fill="none" stroke="#CBE402" stroke-width="2.2"/>
+      <circle cx="78" cy="24" r="20" fill="#CBE402"/>
+      <polygon points="75,17.5 75,30.5 88,24" fill="#262626"/>
 
-      <!-- skip forward -->
-      <g transform="translate(114, 13)" fill="#d5e0f0">
-        <polygon points="3,6 14,12 3,18"/>
-        <polygon points="14,6 25,12 14,18"/>
-        <rect x="26.4" y="5" width="2.6" height="14" rx="1"/>
+      <!-- skip forward: centered on y=24 -->
+      <g transform="translate(134, 24)" fill="#d0d0d0">
+        <polygon points="-9,-7 1.5,0 -9,7"/>
+        <polygon points="1.5,-7 12,0 1.5,7"/>
+        <rect x="10.4" y="-7" width="2.6" height="14" rx="1"/>
       </g>
 
-      <text x="162" y="29" fill="#c5d2e8" font-size="13">02:14:36</text>
+      <text x="162" y="29" fill="#c8c8c8" font-size="13">21:37:00</text>
 
       <!-- timeline -->
-      <rect x="244" y="21" width="520" height="6" rx="3" fill="#24344c"/>
-      <rect x="244" y="21" width="452" height="6" rx="3" fill="#FFA500"/>
-      <circle cx="696" cy="24" r="7.5" fill="#ffffff" stroke="#FFA500" stroke-width="2.5"/>
+      <rect x="244" y="21" width="520" height="6" rx="3" fill="#3d3d3d"/>
+      <rect x="244" y="21" width="452" height="6" rx="3" fill="#CBE402"/>
+      <circle cx="696" cy="24" r="7.5" fill="#f5f5f5" stroke="#CBE402" stroke-width="2.5"/>
 
       <g transform="translate(784, 13)">
-        <rect width="46" height="22" rx="4" fill="#FFA500"/>
-        <text x="23" y="16" text-anchor="middle" fill="#0a1220" font-size="11" font-weight="700" letter-spacing="1.2">LIVE</text>
+        <rect width="46" height="22" rx="4" fill="#CBE402"/>
+        <text x="23" y="16" text-anchor="middle" fill="#262626" font-size="11" font-weight="700" letter-spacing="1.2">LIVE</text>
       </g>
 
       <!-- volume -->
-      <g transform="translate(848, 12)" fill="#d5e0f0">
+      <g transform="translate(848, 12)" fill="#d0d0d0">
         <path d="M1 8.5h4.2L12 2.5v19L5.2 15.5H1z"/>
-        <path d="M15.2 9.2c1.15 1 1.15 4.6 0 5.6" fill="none" stroke="#d5e0f0" stroke-width="1.8" stroke-linecap="round"/>
-        <path d="M18.6 6.8c2.3 1.9 2.3 8.5 0 10.4" fill="none" stroke="#d5e0f0" stroke-width="1.8" stroke-linecap="round"/>
+        <path d="M15.2 9.2c1.15 1 1.15 4.6 0 5.6" fill="none" stroke="#d0d0d0" stroke-width="1.8" stroke-linecap="round"/>
+        <path d="M18.6 6.8c2.3 1.9 2.3 8.5 0 10.4" fill="none" stroke="#d0d0d0" stroke-width="1.8" stroke-linecap="round"/>
       </g>
 
       <!-- captions -->
       <g transform="translate(888, 14)">
-        <rect x="0" y="0" width="32" height="20" rx="4" fill="none" stroke="#d5e0f0" stroke-width="1.7"/>
-        <text x="16" y="14.5" text-anchor="middle" fill="#d5e0f0" font-size="10" font-weight="700">CC</text>
+        <rect x="0" y="0" width="32" height="20" rx="4" fill="none" stroke="#d0d0d0" stroke-width="1.7"/>
+        <text x="16" y="14.5" text-anchor="middle" fill="#d0d0d0" font-size="10" font-weight="700">CC</text>
       </g>
 
       <!-- audio / settings -->
-      <g transform="translate(934, 13)" stroke="#d5e0f0" stroke-width="1.8" stroke-linecap="round">
+      <g transform="translate(934, 13)" stroke="#d0d0d0" stroke-width="1.8" stroke-linecap="round">
         <path d="M4 2.5v15"/>
         <path d="M10 2.5v15"/>
         <path d="M16 2.5v15"/>
-        <circle cx="4" cy="8" r="2.3" fill="#0d1830" stroke="#d5e0f0"/>
-        <circle cx="10" cy="13" r="2.3" fill="#0d1830" stroke="#d5e0f0"/>
-        <circle cx="16" cy="6.5" r="2.3" fill="#0d1830" stroke="#d5e0f0"/>
+        <circle cx="4" cy="8" r="2.3" fill="#262626" stroke="#d0d0d0"/>
+        <circle cx="10" cy="13" r="2.3" fill="#262626" stroke="#d0d0d0"/>
+        <circle cx="16" cy="6.5" r="2.3" fill="#262626" stroke="#d0d0d0"/>
       </g>
 
       <!-- fullscreen -->
-      <g transform="translate(968, 14)" fill="none" stroke="#d5e0f0" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+      <g transform="translate(968, 14)" fill="none" stroke="#d0d0d0" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
         <path d="M1 7.5V1h6.5"/>
         <path d="M23 7.5V1h-6.5"/>
         <path d="M1 12.5V19h6.5"/>
@@ -131,13 +131,13 @@
       </g>
     </g>
 
-    <text x="48" y="314" fill="#9eb0c9" font-size="12" letter-spacing="1.4">TIZEN</text>
-    <text x="128" y="314" fill="#4a5d78" font-size="12">/</text>
-    <text x="146" y="314" fill="#9eb0c9" font-size="12" letter-spacing="1.4">WEBOS</text>
-    <text x="226" y="314" fill="#4a5d78" font-size="12">/</text>
-    <text x="244" y="314" fill="#9eb0c9" font-size="12" letter-spacing="1.4">ROKU</text>
-    <text x="312" y="314" fill="#4a5d78" font-size="12">/</text>
-    <text x="330" y="314" fill="#9eb0c9" font-size="12" letter-spacing="1.4">HLS / DASH</text>
-    <text x="892" y="314" fill="#7f93ad" font-size="12" letter-spacing="1.2">tomekszewczyk.dev</text>
+    <text x="48" y="314" fill="#9a9a9a" font-size="12" letter-spacing="1.4">TIZEN</text>
+    <text x="128" y="314" fill="#5c5c5c" font-size="12">/</text>
+    <text x="146" y="314" fill="#9a9a9a" font-size="12" letter-spacing="1.4">WEBOS</text>
+    <text x="226" y="314" fill="#5c5c5c" font-size="12">/</text>
+    <text x="244" y="314" fill="#9a9a9a" font-size="12" letter-spacing="1.4">ROKU</text>
+    <text x="312" y="314" fill="#5c5c5c" font-size="12">/</text>
+    <text x="330" y="314" fill="#9a9a9a" font-size="12" letter-spacing="1.4">HLS / DASH</text>
+    <text x="892" y="314" fill="#8a8a8a" font-size="12" letter-spacing="1.2">tomekszewczyk.dev</text>
   </g>
 </svg>
