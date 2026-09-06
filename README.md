@@ -12,10 +12,8 @@
   <a href="https://github.com/Szefczuk"><img src="https://img.shields.io/badge/GitHub-Szefczuk-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   &nbsp;
   <a href="mailto:tomekszewczyk0@gmail.com"><img src="https://img.shields.io/badge/Email-tomekszewczyk0@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-
-  <br /><br />
-
-  <sub>🇵🇱 Polish &nbsp;·&nbsp; 🇬🇧 English</sub>
+  <br>
+  🇵🇱 Polish · 🇬🇧 English
 </div>
 
 ---
